@@ -1,4 +1,4 @@
-#Redux Exercise
+# Redux Exercise
 
 I used the following resources for reference:
 
