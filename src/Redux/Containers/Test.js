@@ -1,0 +1,1 @@
+//react component with redux & react-redux
