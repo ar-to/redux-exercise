@@ -1,6 +1,6 @@
 import React from 'react';
 import { createStore, combineReducers } from 'redux';
-import { ADD_TWO } from '../Redux/ActionTypes';
+import { ADD_TWO, ADD_THREE } from '../Redux/Actions/ActionTypes';
 
 const defaults = {
     name: 'Me',
